@@ -1,7 +1,8 @@
 fixtures:
   repositories:
     stdlib: "git://github.com/puppetlabs/puppetlabs-stdlib.git"
-    concat:
+    concat:  #Test to contact 
+    
       repo: "git://github.com/puppetlabs/puppetlabs-concat.git"
       branch: "1.2.x"
     portage: "git://github.com/gentoo/puppet-portage.git"
